@@ -1,7 +1,7 @@
 ### Hi, I'm Oleksii and I'm a web developer, a musician and a space geek!
 
 👨 **Age:** 31 years<br/>
-🏠 **Location:** Kyiv, Ukraine<br/>
+🏠 **Location:** Ukraine<br/>
 🍕 **Likes pizza:** A lot!
 
 I like to build useful and cool-looking websites and web apps.
