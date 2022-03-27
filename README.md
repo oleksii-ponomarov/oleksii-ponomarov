@@ -1,4 +1,4 @@
-### Hi, I'm Alex and I'm a web developer, a musician and a space geek!
+### Hi, I'm Oleksii and I'm a web developer, a musician and a space geek!
 
 👨 **Age:** 31 years<br/>
 🏠 **Location:** Kyiv, Ukraine<br/>
