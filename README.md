@@ -1,6 +1,6 @@
 ### Hi, I'm Oleksii and I'm a web developer, a musician and a space geek!
 
-👨 **Age:** 31 years<br/>
+👨 **Age:** 32 years<br/>
 🏠 **Location:** Ukraine<br/>
 🍕 **Likes pizza:** A lot!
 
